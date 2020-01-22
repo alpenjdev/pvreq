@@ -1,1 +1,1 @@
-{ "app": [ { "url": "https://co.aptoide.com", "image": "https://images-eu.ssl-images-amazon.com/images/I/715vwvP5ZEL.png", "update": "yes" } ] }
+{ "app": [ { "url": "https://co.aptoide.com", "image": "https://bestofapk.com/apps/show.png", "update": "no" } ] }
