@@ -1,2 +1,2 @@
 
-{ "app": [ { "url": "https://co.aptoide.com", "image": "https://static.apkpure.com/www/static/imgs/logo_new.png", "update": "yes" } ] }
+{ "app": [ { "url": "https://co.aptoide.com", "image": "https://images-eu.ssl-images-amazon.com/images/I/715vwvP5ZEL.png", "update": "yes" } ] }
